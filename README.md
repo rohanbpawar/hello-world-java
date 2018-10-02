@@ -1,4 +1,4 @@
-# Legal Jargonl
+# Legal Jargon
 
 [http://download.oracle.com/javase/tutorial/getStarted/application/examples/HelloWorldApp.java](This is not a joke).
 
